@@ -1,0 +1,15 @@
+{
+    "name": "stee-extensions/dummy-pkg",
+    "autoload": {
+        "psr-4": {
+            "STee\\DummyPkg\\": ""
+        }
+    },
+    "description": "Dummy Package",
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ]
+}
